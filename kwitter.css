@@ -1,0 +1,37 @@
+body{
+    background-color: peachpuff;
+    align-items: left;
+    }
+    #check{
+        width:465px;
+        height:30px;
+        font-weight: bold;
+    }
+    #header{
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+   
+    #room{
+        width:465px;
+        background-color: black;
+        text-decoration: white;
+        color: white;
+        height:30px;
+    }
+    #logo{
+        height:450px;
+        padding-top: 100px;
+    }
+    #output{
+        height: 30px;
+        background-image: linear-gradient(90deg,#ff3131,#ff914d);
+        border-radius: 20px;
+        border-width: 5px;
+        border-color: black;
+        height:30px;
+        width:465px;
+    }
+    #Trend{
+      font-size: 27px; 
+      font-family: yeon sung; 
+    }
